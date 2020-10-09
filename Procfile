@@ -1,1 +1,1 @@
-web: npm start-env
+web: npm run start-env
