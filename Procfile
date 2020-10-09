@@ -1,1 +1,1 @@
-web: npm start-env -p $PORT
+web: npm start-env
