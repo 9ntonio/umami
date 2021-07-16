@@ -11,7 +11,7 @@
   },
   "engines": {
     "yarn": "1.x",
-    "node": "14.17.3"
+    "node": "14.17.0"
   },
   "scripts": {
     "dev": "next dev",
