@@ -7,6 +7,7 @@
 
 # yarn lock
 yarn.lock
+yarn.lock~umami-master_master
 
 # testing
 /coverage
